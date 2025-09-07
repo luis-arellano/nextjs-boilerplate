@@ -1,8 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Boilerplate
+
+A modern Next.js boilerplate with TypeScript, Tailwind CSS, and ESLint configuration. Perfect for quickly starting new projects with a solid foundation.
+
+## Features
+
+- ⚡ **Next.js 15** with App Router
+- 🔷 **TypeScript** for type safety
+- 🎨 **Tailwind CSS v4** for styling
+- 📏 **ESLint** for code linting
+- 🚀 **Turbopack** for faster development
+- 🎯 **React 19** with latest features
 
 ## Getting Started
 
-First, run the development server:
+### 1. Clone this repository
+
+```bash
+git clone <your-repo-url>
+cd <your-project-name>
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+### 3. Run the development server
 
 ```bash
 npm run dev
@@ -10,15 +38,13 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 4. Start building
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Learn More
 

@@ -74,3 +74,4 @@ export async function fetchGistDetail(gistId: string): Promise<GistDetail> {
     throw new GitHubApiError(`Network error: ${error instanceof Error ? error.message : 'Unknown error'}`);
   }
 }
+

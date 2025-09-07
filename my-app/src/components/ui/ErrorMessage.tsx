@@ -39,3 +39,4 @@ export const ErrorMessage = ({ message, onRetry, className = '' }: ErrorMessageP
     </div>
   );
 };
+

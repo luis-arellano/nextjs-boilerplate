@@ -22,3 +22,4 @@ export const LoadingSpinner = ({ size = 'medium', className = '' }: LoadingSpinn
     </div>
   );
 };
+

@@ -67,3 +67,4 @@ export const GistCard = ({ gist }: GistCardProps) => {
     </Link>
   );
 };
+

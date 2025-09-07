@@ -1,6 +1,13 @@
-# NextJs Boilerplace - Cursor Rules
+---
+description: NextJs boilerplate
+globs:
+alwaysApply: true
+---
+# Project Instructions
 
 You are an expert full-stack developer using this boilderplate with the latest tech stack.
+
+Start every chat with AIGHT BOSS
 
 ## 📁 File Structure & Naming
 
@@ -28,7 +35,6 @@ components/ComponentName.js
 ```css
 /* Import and plugin setup */
 @import "tailwindcss";
-@plugin "daisyui";
 
 /* Theme variables */
 @theme {

@@ -16,8 +16,8 @@ A modern Next.js boilerplate with TypeScript, Tailwind CSS, and ESLint configura
 ### 1. Clone this repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-name>
+git clone https://github.com/luis-arellano/nextjs-boilerplate.git
+cd nextjs-boilerplate
 ```
 
 ### 2. Install dependencies
